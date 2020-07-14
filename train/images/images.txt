@@ -1,1 +1,1 @@
-This folder contains all the training and testing images.
+Link to download image data: https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/download/train-file 
